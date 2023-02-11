@@ -1,8 +1,2 @@
 # Optimized-Scenario-Reduction-Solving-Large-scale-Stochastic-Programs-with-Quality-Guarantees
-Instance for production routing problem with continuous recourse (PRP-CR_Instance)
-
-Instance for production routing problem with mixed-integer recourse (PRP-IR_Instance)
-
-Instance for facility location problem with continuous recourse (FLP-CR_Instance) 
-
-Instance for facility location problem with mixed-integer recourse (FLP-IR_Instance)
+File ‘PRP-CR_Instance’ contains intance for production routing problem with continuous recourse; file ‘PRP-IR_Instance’ contains intance for  production routing problem with mixed-integer recourse; file ‘FLP-CR_Instance’ contains instance for facility location problem with continuous recourse; file ‘FLP-IR_Instance’ contains instance for facility location problem with mixed-integer recourse. All parameters are well defined and presented in the instance files. File ‘results' contains results for roduction routing problem with continuous recourse,  production routing problem with mixed-integer recourse, facility location problem with continuous recourse and facility location problem with mixed-integer recourse. 
