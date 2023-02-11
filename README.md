@@ -1,8 +1,8 @@
 # Optimized-Scenario-Reduction-Solving-Large-scale-Stochastic-Programs-with-Quality-Guarantees
-production routing problem with continuous recourse (PRP--CR)
+Instance for production routing problem with continuous recourse (PRP-CR Instance)
 
-production routing problem with mixed-integer recourse (PRP--IR)
+Instance for production routing problem with mixed-integer recourse (PRP--IR Instance)
 
-facility location problem with continuous recourse (FLP--CR) 
+Instance for facility location problem with continuous recourse (FLP--CR Instance) 
 
-facility location problem with mixed-integer recourse (FLP--IR)
+Instance for facility location problem with mixed-integer recourse (FLP--IR Instance)
